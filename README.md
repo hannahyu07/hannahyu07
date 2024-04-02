@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hi there, my name is Hannah Yu. I’m a third-year undergrad student at the University of Toronto. Pursuing a double major in economics and statistics with a focus on data analysis has provided me with invaluable opportunities to delve into the intersection of these fields. Through rigorous coursework and hands-on projects, I’ve developed a proficient command of several statistical software tools, including R, Stata, Python, and SQL.
 
 <!--
 **hannahyu07/hannahyu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
